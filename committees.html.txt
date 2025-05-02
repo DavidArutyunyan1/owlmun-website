@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>OWLMUN 2026 Committees</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>OWLMUN 2026</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="schedule.html">Schedule</a>
+      <a href="committees.html">Committees</a>
+      <a href="faq.html">FAQ</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Committees</h2>
+    <p>OWLMUN 2026 will feature five exciting committees:</p>
+    <ul>
+      <li><strong>General Assembly:</strong> A large-scale committee for global discussions on key issues.</li>
+      <li><strong>Specialized Committees:</strong> Two specialized committees focusing on unique global challenges.</li>
+      <li><strong>Crisis Committees:</strong> Fast-paced, reactive committees, one of which will be an ADHOC committee.</li>
+    </ul>
+  </main>
+  <footer>
+    <p>© 2026 OWLMUN | FAU High School</p>
+  </footer>
+</body>
+</html>

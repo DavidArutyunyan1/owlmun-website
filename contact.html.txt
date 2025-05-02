@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>OWLMUN 2026 Contact</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>OWLMUN 2026</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="schedule.html">Schedule</a>
+      <a href="committees.html">Committees</a>
+      <a href="faq.html">FAQ</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Contact Us</h2>
+    <p>If you have any questions or need more information, feel free to reach out to us:</p>
+    <ul>
+      <li><strong>Email:</strong> <a href="mailto:info@owlmun2026.com">info@owlmun2026.com</a></li>
+      <li><strong>Phone:</strong> +1 (123) 456-7890</li>
+      <li><strong>Address:</strong> FAU High School, 777 Glades Road, Boca Raton, FL 33431</li>
+    </ul>
+  </main>
+  <footer>
+    <p>© 2026 OWLMUN | FAU High School</p>
+  </footer>
+</body>
+</html>
